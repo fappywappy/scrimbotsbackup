@@ -1,0 +1,23 @@
+{
+  "GUILD": "561964284691742732",
+  "TEAM_CHANNEL": "696501715029196871",
+  "REQUESTS_CHANNEL": "696501709442252880",
+  "LOG_CHANNEL": "696501721806929921",
+  "COMMAND_PREFIX": ">",
+  "INTEAM_ROLE": "722709378171535371",
+  "ALLOWED_ROLES": [
+    "593684419597041674",
+    "573005975347396646",
+    "683042045115236366",
+    "570509461454848001"
+  ],
+  "ICONS": {
+    "INFO": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Info_icon_002.svg/480px-Info_icon_002.svg.png",
+    "LOCKED": "https://image.flaticon.com/icons/png/128/149/149077.png",
+    "UNLOCKED": "https://image.flaticon.com/icons/png/128/149/149078.png"
+  },
+  "PLACES": [
+    0, 225, 175, 150, 130, 110, 95, 80, 60, 50, 40, 30, 20, 15, 10, 10
+  ],
+  "KILL_POINTS": 15
+}
