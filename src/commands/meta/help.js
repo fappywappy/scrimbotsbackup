@@ -33,7 +33,7 @@ module.exports = function (bot, args, cmdMsg) {
   ~  **\\${prefix}requestsclear**- clears existing requests.
   ~  **\\${prefix}scrimend (override), (scrim name)**- set override to 'true' to override record requirement.
   ~  **\\${prefix}scrimreset**- clears all team statistics and exits the scrim.
-  ~  **\\${prefix}scrimsignup (scrim name)**- notifies @everyone to sign up for scrims.
+  ~  **\\${prefix}scrimsignup (scrim name)**- notifies @here to sign up for scrims.
   ~  **\\${prefix}scrimstart (scrim name)**- starts a scrim (three games).
   ~  **\\${prefix}teamedit (1-30), (new team name)**- edit the name of a team corresponding with the slot number.
   ~  **\\${prefix}teammove (1-30), (1-30)**- moves a team from one slot number to another.
@@ -43,7 +43,7 @@ module.exports = function (bot, args, cmdMsg) {
   ~  **\\${prefix}usermove @user, (1-30)**- moves a user to the specified slot number.
   ~  **\\${prefix}userremove @user**- removes a user from their team.
 
-  Server Invite Link: https://discord.gg/2t8bgTw
+  Server Invite Link: https://discord.gg/cbkesports
   `);
 
   cmdMsg.author.send(helpStr, {split: true});

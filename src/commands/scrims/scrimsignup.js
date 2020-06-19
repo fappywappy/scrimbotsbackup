@@ -20,6 +20,6 @@ module.exports = async function (bot, args, msg) {
     View teams in <#${TEAM_CHANNEL}>.
   `));
   
-  msg.channel.send(embed);
+  msg.channel.send('@here', embed);
   msg.delete(500);
 } 
