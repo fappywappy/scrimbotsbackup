@@ -43,7 +43,7 @@ module.exports = function (bot, args, cmdMsg) {
   ~  **\\${prefix}usermove @user, (1-30)**- moves a user to the specified slot number.
   ~  **\\${prefix}userremove @user**- removes a user from their team.
 
-  Server Invite Link: https://discord.gg/cbkesports
+  Server Invite Link: https://discord.gg/QRAqrpCec8
   `);
 
   cmdMsg.author.send(helpStr, {split: true});
